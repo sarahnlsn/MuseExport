@@ -42,7 +42,7 @@ function emailFormSubmission()
 	
 	if($sent)
 	{
-		echo '{"FormResponse": { "success": true}}';
+		echo '{"FormResponse": { "success": true,"redirect":"index.html"}}';
 
 	}
 	else

@@ -1,3 +1,4 @@
+
 html
 {
 	min-height: 100%;
@@ -81,6 +82,9 @@ body
 	body { text-rendering:auto; }
 }
 
+@media only screen and (min-device-width : 719px) and (max-device-width : 721px) and (-webkit-min-device-pixel-ratio : 2) and (orientation : portrait) { 
+
+}
 a:link
 {
 	color: #0000FF;
