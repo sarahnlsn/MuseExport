@@ -1,26 +1,26 @@
 @-ms-viewport
 {
-	width: 480px;
+	width: 355px;
 }
 
 @-webkit-viewport
 {
-	width: 480px;
+	width: 355px;
 }
 
 @-o-viewport
 {
-	width: 480px;
+	width: 355px;
 }
 
 @-moz-viewport
 {
-	width: 480px;
+	width: 355px;
 }
 
 @viewport
 {
-	width: 480px;
+	width: 355px;
 }
 
 .html
@@ -31,62 +31,63 @@
 #page
 {
 	z-index: 1;
-	width: 480px;
-	min-height: 800px;
+	width: 355px;
+	min-height: 608px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: #FFFFFF;
 }
 
-#u159
+#u1669-6
 {
 	z-index: 2;
-	width: 481px;
+	width: 355px;
+	min-height: 622px;
 	margin-right: -10000px;
-	left: -1px;
 }
 
-#u460
+#u1673
 {
-	z-index: 4;
-	width: 258px;
+	z-index: 8;
+	width: 355px;
+}
+
+#u1677
+{
+	z-index: 11;
+	width: 127px;
 	margin-right: -10000px;
-	left: 222px;
+	left: 214px;
 }
 
 #u1544-11
 {
-	z-index: 6;
-	width: 345px;
-	min-height: 426px;
+	z-index: 13;
+	width: 278px;
+	min-height: 292px;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #000000;
 	background-color: #FFFFFF;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 170px;
-	left: 67px;
+	margin-top: 124px;
+	left: 38px;
 }
 
 #u1544-6
 {
+	font-size: 26px;
 	text-align: center;
-	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
-}
-
-#u1544-5
-{
-	font-size: 36px;
-	line-height: 43px;
+	line-height: 31px;
 }
 
 #u1546-9
 {
-	z-index: 17;
-	width: 105px;
-	min-height: 94px;
+	z-index: 24;
+	width: 93px;
+	min-height: 88px;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #000000;
@@ -94,72 +95,49 @@
 	text-align: center;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 482px;
-	left: 290px;
+	margin-top: 318px;
+	left: 212px;
+}
+
+#u1546-3,#u1546-5,#u1546-7
+{
+	font-size: 10px;
+	line-height: 12px;
 }
 
 #u1547
 {
-	z-index: 26;
+	z-index: 33;
 	width: 84px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 625px;
-	left: 198px;
+	margin-top: 429px;
+	left: 135px;
 }
 
 #u1553
 {
-	z-index: 28;
+	z-index: 35;
 	width: 84px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 625px;
-	left: 313px;
+	margin-top: 429px;
+	left: 250px;
 }
 
 #u1558
 {
-	z-index: 30;
+	z-index: 37;
 	width: 84px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 625px;
-	left: 84px;
+	margin-top: 429px;
+	left: 21px;
 }
 
 #u1547_img,#u1553_img,#u1558_img
 {
 	padding-right: 1px;
-}
-
-#u1575-3
-{
-	z-index: 32;
-	width: 120px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 728px;
-	left: 283px;
-}
-
-._u1575-3.f3s_top
-{
-	height: 42px;
-	background-image: url("../images/u1575-3-full.png");
-	background-position: left top;
-	width: 120px;
-}
-
-#u1576-4
-{
-	z-index: 35;
-	display: block;
-	vertical-align: top;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 732px;
-	left: 292px;
 }
 
 #buttonu1577
@@ -205,6 +183,43 @@
 	vertical-align: top;
 	margin-top: 14px;
 	position: relative;
+}
+
+#u2061
+{
+	z-index: 43;
+	width: 120px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 478px;
+	left: 117px;
+}
+
+#u1575-3
+{
+	z-index: 44;
+	width: 120px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+._u1575-3.f3s_top
+{
+	height: 42px;
+	background-image: url("../images/u1575-3-full.png");
+	background-position: left top;
+	width: 120px;
+}
+
+#u1576-4
+{
+	z-index: 47;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 3px;
+	left: 7px;
 }
 
 #page .verticalspacer

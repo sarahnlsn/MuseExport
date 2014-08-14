@@ -1,191 +1,126 @@
 <manifest alg="2" build="30" opt="true" iceEnabled="true">
   <folder name="css">
-    <file name="site_global.css" crc="3808938661"/>
-    <file name="master_trender.css" crc="5179960" ref="recent-calls:mmenu:settings:dtmenu:index:dressing-table"/>
-    <file name="master_blank.css" crc="4028331926" ref="index"/>
-    <file name="master_main.css" crc="3914005524" ref="forgotpw:logout:call-feedback:videocall"/>
-    <file name="recent-calls.css" crc="216432931" ref="recent-calls"/>
-    <file name="mmenu.css" crc="4162485016" ref="mmenu"/>
-    <file name="forgotpw.css" crc="303126372" ref="forgotpw"/>
-    <file name="settings.css" crc="3930165210" ref="settings"/>
-    <file name="logout.css" crc="3978933285" ref="logout"/>
-    <file name="index1.css" crc="4244630089" ref="index"/>
-    <file name="call-feedback.css" crc="4220895699" ref="call-feedback"/>
-    <file name="dtmenu.css" crc="3946372843" ref="dtmenu"/>
-    <file name="index.css" crc="392916891" ref="index"/>
-    <file name="videocall.css" crc="3885977203" ref="videocall"/>
-    <file name="dressing-table.css" crc="3857885183" ref="dressing-table"/>
+    <file name="site_global.css" crc="114173904"/>
+    <file name="master_main.css" crc="324498018" ref="videocall"/>
+    <file name="master_trender.css" crc="5179960" ref="settings:dressing-table:dashboard:index"/>
+    <file name="settings.css" crc="4275419851" ref="settings"/>
+    <file name="dressing-table.css" crc="4124472409" ref="dressing-table"/>
+    <file name="dashboard.css" crc="191975786" ref="dashboard"/>
+    <file name="videocall.css" crc="253580547" ref="videocall"/>
+    <file name="index.css" crc="4128244827" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="login.psb" crc="4282793525" mt="1405074628000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:call-feedback:settings:logout:forgotpw:index:recent-calls:dtmenu:mmenu:videocall:dressing-table"/>
-    <file name="museutils.js" crc="3880880085" ref="index:call-feedback:settings:logout:forgotpw:index:recent-calls:dtmenu:mmenu:videocall:dressing-table"/>
-    <file name="pie.js" crc="4147615982" ref="index:settings:index:dtmenu:mmenu"/>
-    <file name="webpro.js" crc="33264525" ref="index:logout:forgotpw:index:dressing-table"/>
-    <file name="musewpdisclosure.js" crc="250538392" ref="index:dressing-table"/>
-    <file name="jquery.watch.js" crc="4199601726" ref="index:call-feedback:settings:logout:forgotpw:index:recent-calls:dtmenu:mmenu:videocall:dressing-table"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3899542795" ref="logout"/>
-    <file name="jquery.tobrowserwidth.js" crc="152985095" ref="logout"/>
-    <file name="form_check.php" crc="28954828" ref="logout:forgotpw:index"/>
-    <file name="form_throttle.php" crc="412380283" ref="logout:forgotpw:index"/>
-    <file name="form-u221.php" crc="61316988" ref="logout"/>
-    <file name="form-u441.php" crc="525613884" ref="forgotpw"/>
-    <file name="form-u616.php" crc="436270784" ref="index"/>
-    <file name="jquery.musemenu.js" crc="32367222" ref="dtmenu:mmenu"/>
+    <file name="jquery-1.8.3.min.js" crc="3828297711" ref="dashboard:videocall:settings:index:dressing-table"/>
+    <file name="museutils.js" crc="3880880085" ref="dashboard:videocall:settings:index:dressing-table"/>
+    <file name="pie.js" crc="4147615982" ref="dashboard:settings:index"/>
+    <file name="webpro.js" crc="33264525" ref="dashboard:dressing-table"/>
+    <file name="musewpslideshow.js" crc="272207905" ref="dashboard"/>
+    <file name="jquery.museoverlay.js" crc="466079611" ref="dashboard"/>
+    <file name="touchswipe.js" crc="261777990" ref="dashboard"/>
+    <file name="musewpdisclosure.js" crc="250538392" ref="dashboard:dressing-table"/>
+    <file name="jquery.tobrowserwidth.js" crc="152985095" ref="videocall"/>
+    <file name="jquery.watch.js" crc="4199601726" ref="videocall"/>
+    <file name="jquery.musemenu.js" crc="32367222" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="backgrd.jpg" crc="364560349" ref="index:call-feedback:settings:logout:forgotpw:index:recent-calls:dtmenu:mmenu:videocall:dressing-table"/>
-    <file name="blank.gif" crc="4208392903" ref="index:forgotpw:index:dtmenu:mmenu:dressing-table"/>
-    <file name="u931.png" crc="364492205" ref="index"/>
-    <file name="u931-a.png" crc="407889807" ref="index"/>
-    <file name="u936.png" crc="92793949" ref="index"/>
-    <file name="u936-a.png" crc="72343580" ref="index"/>
-    <file name="u939.png" crc="65850392" ref="index"/>
-    <file name="u939-a.png" crc="438987890" ref="index"/>
-    <file name="img1.jpg" crc="3836921192" ref="index:dressing-table"/>
-    <file name="u1426-6.png" crc="126756289" ref="index"/>
-    <file name="u1493-6.png" crc="484086759" ref="index"/>
-    <file name="u1430-6.png" crc="126756289" ref="index"/>
-    <file name="statspg.png" crc="4189562424" ref="index"/>
-    <file name="u1421-6.png" crc="484086759" ref="index"/>
-    <file name="u946-6.png" crc="126756289" ref="index"/>
-    <file name="u1403-sprite.png" crc="4006275259" ref="index"/>
-    <file name="u1409-6.png" crc="4226763818" ref="index"/>
-    <file name="u1410-10.png" crc="114306867" ref="index"/>
-    <file name="u1412-11.png" crc="3869388147" ref="index"/>
-    <file name="u1414.png" crc="495030782" ref="index"/>
-    <file name="u1415.png" crc="152044331" ref="index"/>
-    <file name="u1418-6.png" crc="4158834669" ref="index"/>
-    <file name="u1419-6.png" crc="252539306" ref="index"/>
-    <file name="u1420-6.png" crc="536058077" ref="index"/>
-    <file name="u1492-6.png" crc="484086759" ref="index"/>
-    <file name="u999.png" crc="4215828142" ref="index"/>
-    <file name="u1000.png" crc="4215828142" ref="index"/>
-    <file name="u998.png" crc="4215828142" ref="index"/>
-    <file name="u1001-4.png" crc="438794939" ref="index"/>
-    <file name="logo.png" crc="118171722" ref="call-feedback:logout:forgotpw:index:videocall"/>
+    <file name="backgrd.jpg" crc="364560349" ref="dashboard:videocall:settings:index:dressing-table"/>
+    <file name="blank.gif" crc="4208392903" ref="dashboard:index:dressing-table"/>
+    <file name="u931.png" crc="3761303853" ref="dashboard"/>
+    <file name="u931-a.png" crc="106145972" ref="dashboard"/>
+    <file name="u936.png" crc="3855562255" ref="dashboard"/>
+    <file name="u936-a.png" crc="4214200040" ref="dashboard"/>
+    <file name="u939.png" crc="458765277" ref="dashboard"/>
+    <file name="u939-a.png" crc="116004231" ref="dashboard"/>
+    <file name="img1.jpg" crc="486267571" ref="dashboard:dressing-table"/>
+    <file name="u1426-6.png" crc="347938180" ref="dashboard"/>
+    <file name="2009-07-09 080905.jpg" crc="110049840" ref="dashboard"/>
+    <file name="2011-07-24 011046.jpg" crc="4195262891" ref="dashboard"/>
+    <file name="2012-01-19 102605.jpg" crc="4233164869" ref="dashboard"/>
+    <file name="2012-01-20 212720.jpg" crc="236377573" ref="dashboard"/>
+    <file name="2012-05-23 203430.jpg" crc="169102291" ref="dashboard"/>
+    <file name="2012-06-22 180124.jpg" crc="139420856" ref="dashboard"/>
+    <file name="2011-12-16 232729.jpg" crc="4107698447" ref="dashboard"/>
+    <file name="loading.gif" crc="3815509949" ref="dashboard"/>
+    <file name="u1493-6.png" crc="4169494566" ref="dashboard"/>
+    <file name="u2049-6.png" crc="4265150743" ref="dashboard"/>
+    <file name="statspg285x292.png" crc="4240527042" ref="dashboard"/>
+    <file name="u2053-6.png" crc="4169494566" ref="dashboard"/>
+    <file name="u2055-6.png" crc="4265150743" ref="dashboard"/>
+    <file name="u1409-6.png" crc="3958733688" ref="dashboard"/>
+    <file name="u1410-10.png" crc="3999567211" ref="dashboard"/>
+    <file name="u1412-10.png" crc="67509246" ref="dashboard"/>
+    <file name="u1404-sprite.png" crc="3973042178" ref="dashboard"/>
+    <file name="u1418-6.png" crc="4218937415" ref="dashboard"/>
+    <file name="u1419-6.png" crc="3770509428" ref="dashboard"/>
+    <file name="u1420-7.png" crc="4076983645" ref="dashboard"/>
+    <file name="u2059-6.png" crc="4169494566" ref="dashboard"/>
+    <file name="u999.png" crc="4215828142" ref="dashboard"/>
+    <file name="u1000.png" crc="4215828142" ref="dashboard"/>
+    <file name="u998.png" crc="4215828142" ref="dashboard"/>
+    <file name="u1001-4.png" crc="3879684134" ref="dashboard"/>
+    <file name="logo.png" crc="118171722" ref="videocall"/>
     <file name="end.png" crc="3855079197" ref="videocall"/>
     <file name="mute.png" crc="259662938" ref="videocall"/>
     <file name="start.png" crc="200366544" ref="videocall"/>
-    <file name="u1575-3-full.png" crc="3962373847" ref="videocall"/>
-    <file name="u1576-4.png" crc="3917109917" ref="videocall"/>
     <file name="u1579.png" crc="4215828142" ref="videocall"/>
     <file name="u1578.png" crc="4215828142" ref="videocall"/>
     <file name="u1580.png" crc="4215828142" ref="videocall"/>
+    <file name="u1575-3-full.png" crc="3962373847" ref="videocall"/>
+    <file name="u1576-4.png" crc="3917109917" ref="videocall"/>
     <file name="u1486.png" crc="4215828142" ref="settings"/>
     <file name="u1485.png" crc="4215828142" ref="settings"/>
     <file name="u1487.png" crc="4215828142" ref="settings"/>
     <file name="u1488-4.png" crc="313924601" ref="settings"/>
-    <file name="u1530-4.png" crc="4143514675" ref="settings"/>
-    <file name="u1532-4.png" crc="3871428970" ref="settings"/>
-    <file name="u1534-4.png" crc="4143514675" ref="settings"/>
-    <file name="u1491-sprite.png" crc="4064122721" ref="settings"/>
-    <file name="u1514-4.png" crc="3815363620" ref="settings"/>
-    <file name="u1529-4.png" crc="3933914285" ref="settings"/>
-    <file name="u1515-4.png" crc="4172397357" ref="settings"/>
-    <file name="u1516-4.png" crc="261301195" ref="settings"/>
-    <file name="u1527-4.png" crc="3768748715" ref="settings"/>
-    <file name="u1517-4.png" crc="460155598" ref="settings"/>
-    <file name="u1528-4.png" crc="3768748715" ref="settings"/>
-    <file name="u1518-4.png" crc="474108520" ref="settings"/>
-    <file name="loginpage.png" crc="194187131" ref="logout"/>
-    <file name="loginbtn.png" crc="425053005" ref="logout"/>
-    <file name="loginbtn2.png" crc="220624111" ref="logout"/>
-    <file name="u224-17.png" crc="249122815" ref="logout"/>
-    <file name="u224-17-r.png" crc="4035824940" ref="logout"/>
-    <file name="u224-17-m.png" crc="54315605" ref="logout"/>
-    <file name="u224-17-fs.png" crc="228099670" ref="logout"/>
-    <file name="u687-4.png" crc="3829293385" ref="logout"/>
-    <file name="u459-8.png" crc="4283318948" ref="forgotpw"/>
-    <file name="u455.png" crc="157814808" ref="forgotpw"/>
-    <file name="u455-ferr.png" crc="389767247" ref="forgotpw"/>
-    <file name="u443.png" crc="179661178" ref="forgotpw"/>
-    <file name="u443-ferr.png" crc="3816577324" ref="forgotpw"/>
-    <file name="u457-17.png" crc="284672376" ref="forgotpw"/>
-    <file name="u457-17-r.png" crc="130111634" ref="forgotpw"/>
-    <file name="u457-17-m.png" crc="3795451661" ref="forgotpw"/>
-    <file name="u457-17-fs.png" crc="3852215185" ref="forgotpw"/>
-    <file name="u580-4.png" crc="4059152469" ref="index"/>
-    <file name="u587.png" crc="292814497" ref="index"/>
-    <file name="u587-r.png" crc="4023517153" ref="index"/>
-    <file name="u587-m.png" crc="4023517153" ref="index"/>
-    <file name="u587-a.png" crc="3945297866" ref="index"/>
-    <file name="u593-4.png" crc="167680804" ref="index"/>
-    <file name="regpge.png" crc="3763279484" ref="index"/>
-    <file name="u619-17.png" crc="4015521681" ref="index"/>
-    <file name="u619-17-r.png" crc="299239608" ref="index"/>
-    <file name="u619-17-m.png" crc="127221878" ref="index"/>
-    <file name="u619-17-fs.png" crc="4283834511" ref="index"/>
-    <file name="u846.png" crc="283805195" ref="dtmenu"/>
-    <file name="u846-a.png" crc="3956749616" ref="dtmenu"/>
-    <file name="u1318.png" crc="291121451" ref="dtmenu"/>
-    <file name="u1318-a.png" crc="100453134" ref="dtmenu"/>
-    <file name="u1209.png" crc="296772875" ref="dtmenu"/>
-    <file name="u1209-a.png" crc="3887239863" ref="dtmenu"/>
-    <file name="u1586.png" crc="294283153" ref="dtmenu"/>
-    <file name="u1586-a.png" crc="3915027914" ref="dtmenu"/>
-    <file name="u886.png" crc="4215828142" ref="dtmenu"/>
-    <file name="u885.png" crc="4215828142" ref="dtmenu"/>
-    <file name="u887.png" crc="4215828142" ref="dtmenu"/>
-    <file name="u1291.png" crc="3998407555" ref="dressing-table"/>
-    <file name="u1291-a.png" crc="314867637" ref="dressing-table"/>
-    <file name="u1284.png" crc="494557111" ref="dressing-table"/>
-    <file name="u1284-a.png" crc="3944661671" ref="dressing-table"/>
-    <file name="u1286.png" crc="4037528705" ref="dressing-table"/>
-    <file name="u1286-a.png" crc="61918195" ref="dressing-table"/>
-    <file name="img9.jpg" crc="242240863" ref="dressing-table"/>
-    <file name="img5.jpg" crc="4020479383" ref="dressing-table"/>
-    <file name="img4.jpg" crc="429771736" ref="dressing-table"/>
-    <file name="img3.jpg" crc="4106050643" ref="dressing-table"/>
-    <file name="img2.jpg" crc="4209234550" ref="dressing-table"/>
-    <file name="img8.jpg" crc="3849743140" ref="dressing-table"/>
-    <file name="img7.jpg" crc="4150158305" ref="dressing-table"/>
-    <file name="img6.jpg" crc="59990068" ref="dressing-table"/>
+    <file name="u1528-4.png" crc="250816950" ref="settings"/>
+    <file name="u1527-4.png" crc="163944090" ref="settings"/>
+    <file name="u1529-4.png" crc="20661025" ref="settings"/>
+    <file name="u1532-4.png" crc="185045602" ref="settings"/>
+    <file name="u1491-sprite.png" crc="443324912" ref="settings"/>
+    <file name="u1530-4.png" crc="4192903545" ref="settings"/>
+    <file name="u1514-4.png" crc="376742824" ref="settings"/>
+    <file name="u1515-4.png" crc="185174269" ref="settings"/>
+    <file name="u1516-4.png" crc="3835427855" ref="settings"/>
+    <file name="u1517-4.png" crc="4129681040" ref="settings"/>
+    <file name="u1534-4.png" crc="4192903545" ref="settings"/>
+    <file name="u1518-4.png" crc="3858498929" ref="settings"/>
+    <file name="u1608-4-a.png" crc="3869689524" ref="index"/>
+    <file name="u1318.png" crc="506428667" ref="index"/>
+    <file name="u1318-a.png" crc="3903745833" ref="index"/>
+    <file name="u1636.png" crc="4230592088" ref="index"/>
+    <file name="u1636-a.png" crc="375949296" ref="index"/>
+    <file name="u846.png" crc="483116763" ref="index"/>
+    <file name="u846-a.png" crc="445215970" ref="index"/>
+    <file name="u1586.png" crc="4000227046" ref="index"/>
+    <file name="u1586-a.png" crc="4113390125" ref="index"/>
+    <file name="u886.png" crc="4215828142" ref="index"/>
+    <file name="u885.png" crc="4215828142" ref="index"/>
+    <file name="u887.png" crc="4215828142" ref="index"/>
+    <file name="u1291.png" crc="4092651128" ref="dressing-table"/>
+    <file name="u1291-a.png" crc="4012382706" ref="dressing-table"/>
+    <file name="u1284.png" crc="3931154696" ref="dressing-table"/>
+    <file name="u1284-a.png" crc="496311453" ref="dressing-table"/>
+    <file name="u1286.png" crc="4096608530" ref="dressing-table"/>
+    <file name="u1286-a.png" crc="243673447" ref="dressing-table"/>
+    <file name="img9.jpg" crc="3974336650" ref="dressing-table"/>
+    <file name="img5.jpg" crc="4233848733" ref="dressing-table"/>
+    <file name="img4.jpg" crc="4031879597" ref="dressing-table"/>
+    <file name="img3.jpg" crc="3832913187" ref="dressing-table"/>
+    <file name="bigflower.jpg" crc="3904825038" ref="dressing-table"/>
+    <file name="img2.jpg" crc="11759118" ref="dressing-table"/>
+    <file name="img8.jpg" crc="3938944308" ref="dressing-table"/>
+    <file name="img7.jpg" crc="4081487656" ref="dressing-table"/>
+    <file name="img6.jpg" crc="494764576" ref="dressing-table"/>
     <file name="u1296.png" crc="4215828142" ref="dressing-table"/>
     <file name="u1297.png" crc="4215828142" ref="dressing-table"/>
     <file name="u1294.png" crc="4215828142" ref="dressing-table"/>
-    <file name="u1298-4.png" crc="4193474784" ref="dressing-table"/>
-    <file name="u1382.png" crc="283805195" ref="mmenu"/>
-    <file name="u1382-a.png" crc="3956749616" ref="mmenu"/>
-    <file name="u1361.png" crc="291121451" ref="mmenu"/>
-    <file name="u1361-a.png" crc="100453134" ref="mmenu"/>
-    <file name="u1391.png" crc="296772875" ref="mmenu"/>
-    <file name="u1391-a.png" crc="3887239863" ref="mmenu"/>
-    <file name="u1594.png" crc="294283153" ref="mmenu"/>
-    <file name="u1594-a.png" crc="3915027914" ref="mmenu"/>
-    <file name="u1331.png" crc="4215828142" ref="mmenu"/>
-    <file name="u1330.png" crc="4215828142" ref="mmenu"/>
-    <file name="u1332.png" crc="4215828142" ref="mmenu"/>
-    <file name="u1608-4-a.png" crc="4237407226" ref="dtmenu"/>
-    <file name="u1621.png" crc="3932271572" ref="dtmenu"/>
-    <file name="u1621-a.png" crc="4183421958" ref="dtmenu"/>
-    <file name="u1636.png" crc="3924670458" ref="dtmenu"/>
-    <file name="u1636-a.png" crc="72290191" ref="dtmenu"/>
-    <file name="u1651.png" crc="330204698" ref="dtmenu"/>
-    <file name="u1651-a.png" crc="4249724614" ref="dtmenu"/>
-    <file name="u1664.png" crc="28535518" ref="dtmenu"/>
-    <file name="u1664-a.png" crc="3852434664" ref="dtmenu"/>
-    <file name="bigflower.jpg" crc="4191129574" ref="dressing-table"/>
-    <file name="u1604.png" crc="4044290686" ref="mmenu"/>
-    <file name="u1604-a.png" crc="4237407226" ref="mmenu"/>
-    <file name="u1616-4-a.png" crc="4183421958" ref="mmenu"/>
-    <file name="u1629.png" crc="3924670458" ref="mmenu"/>
-    <file name="u1629-a.png" crc="72290191" ref="mmenu"/>
-    <file name="u1645.png" crc="330204698" ref="mmenu"/>
-    <file name="u1645-a.png" crc="4249724614" ref="mmenu"/>
-    <file name="u1658.png" crc="28535518" ref="mmenu"/>
-    <file name="u1658-a.png" crc="3852434664" ref="mmenu"/>
+    <file name="u1298-4.png" crc="220467571" ref="dressing-table"/>
   </folder>
-  <file name="index.html" crc="233765475" mt="1405324233789" redirect="true"/>
-  <file name="call-feedback.html" crc="4120316383" mt="1405417348432" redirect="true"/>
-  <file name="settings.html" crc="76352181" mt="1405195599514" redirect="true"/>
-  <file name="logout.html" crc="4180799626" mt="1405417394738" redirect="true"/>
-  <file name="forgotpw.html" crc="8499700" mt="1405417348435" redirect="true"/>
-  <file name="recent-calls.html" crc="4091879018" mt="1405190730837" redirect="true"/>
-  <file name="dtmenu.html" crc="3950227095" mt="1405417716093" redirect="true"/>
-  <file name="mmenu.html" crc="3816925654" mt="1405417716092" redirect="true"/>
-  <file name="videocall.html" crc="3776157755" mt="1405417489772" redirect="true"/>
-  <file name="dressing-table.html" crc="3998899551" mt="1405417446795" redirect="true"/>
+  <file name="dashboard.html" crc="89389510" mt="1407973961912" redirect="true"/>
+  <file name="videocall.html" crc="330504605" mt="1407974696912" redirect="true"/>
+  <file name="settings.html" crc="4244760452" mt="1407974537938" redirect="true"/>
+  <file name="index.html" crc="3792704754" mt="1407973596508" redirect="true"/>
+  <file name="dressing-table.html" crc="3840309853" mt="1407973954085" redirect="true"/>
 </manifest>
