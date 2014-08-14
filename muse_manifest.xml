@@ -117,10 +117,11 @@
     <file name="u1297.png" crc="4215828142" ref="dressing-table"/>
     <file name="u1294.png" crc="4215828142" ref="dressing-table"/>
     <file name="u1298-4.png" crc="220467571" ref="dressing-table"/>
+    <file name="favicon.ico" crc="4005283272" ref="dashboard"/>
   </folder>
-  <file name="dashboard.html" crc="89389510" mt="1407973961912" redirect="true"/>
-  <file name="videocall.html" crc="330504605" mt="1407974696912" redirect="true"/>
-  <file name="settings.html" crc="4244760452" mt="1407974537938" redirect="true"/>
-  <file name="index.html" crc="3792704754" mt="1407973596508" redirect="true"/>
-  <file name="dressing-table.html" crc="3840309853" mt="1407973954085" redirect="true"/>
+  <file name="dashboard.html" crc="473519319" mt="1407977170633" redirect="true"/>
+  <file name="videocall.html" crc="3878819126" mt="1407977170630" redirect="true"/>
+  <file name="settings.html" crc="114090129" mt="1407977170635" redirect="true"/>
+  <file name="index.html" crc="109318537" mt="1407977170637" redirect="true"/>
+  <file name="dressing-table.html" crc="4131456330" mt="1407977170638" redirect="true"/>
 </manifest>
