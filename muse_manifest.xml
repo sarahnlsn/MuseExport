@@ -1,32 +1,37 @@
 <manifest alg="2" build="30" opt="true" iceEnabled="true">
   <folder name="css">
-    <file name="site_global.css" crc="114173904"/>
-    <file name="master_main.css" crc="324498018" ref="videocall"/>
-    <file name="master_trender.css" crc="5179960" ref="settings:dressing-table:dashboard:index"/>
-    <file name="settings.css" crc="4275419851" ref="settings"/>
-    <file name="dressing-table.css" crc="4124472409" ref="dressing-table"/>
-    <file name="dashboard.css" crc="191975786" ref="dashboard"/>
+    <file name="site_global.css" crc="3808938661"/>
+    <file name="master_main.css" crc="324498018" ref="videocall:download"/>
+    <file name="master_trender.css" crc="5179960" ref="dashboard:index:dressing-table:settings"/>
+    <file name="dashboard.css" crc="4280939012" ref="dashboard"/>
     <file name="videocall.css" crc="253580547" ref="videocall"/>
-    <file name="index.css" crc="4128244827" ref="index"/>
+    <file name="index.css" crc="4192933364" ref="index"/>
+    <file name="dressing-table.css" crc="4124472409" ref="dressing-table"/>
+    <file name="settings.css" crc="4275419851" ref="settings"/>
+    <file name="download.css" crc="4137086321" ref="download"/>
   </folder>
   <folder name="assets">
     <file name="login.psb" crc="4282793525" mt="1405074628000"/>
+    <file name="styla.apk" crc="241610052" mt="1407975440000"/>
+    <file name="videocall.apk" crc="4207487512" mt="1407932969000"/>
+    <file name="ms3308-presentation.pptx" crc="334078780" mt="1408056237000"/>
+    <file name="ms3308-thesis.pdf" crc="4060434492" mt="1408056885000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="3828297711" ref="dashboard:videocall:settings:index:dressing-table"/>
-    <file name="museutils.js" crc="3880880085" ref="dashboard:videocall:settings:index:dressing-table"/>
+    <file name="jquery-1.8.3.min.js" crc="3828297711" ref="dashboard:videocall:settings:index:dressing-table:download"/>
+    <file name="museutils.js" crc="3880880085" ref="dashboard:videocall:settings:index:dressing-table:download"/>
     <file name="pie.js" crc="4147615982" ref="dashboard:settings:index"/>
     <file name="webpro.js" crc="33264525" ref="dashboard:dressing-table"/>
     <file name="musewpslideshow.js" crc="272207905" ref="dashboard"/>
     <file name="jquery.museoverlay.js" crc="466079611" ref="dashboard"/>
     <file name="touchswipe.js" crc="261777990" ref="dashboard"/>
     <file name="musewpdisclosure.js" crc="250538392" ref="dashboard:dressing-table"/>
-    <file name="jquery.tobrowserwidth.js" crc="152985095" ref="videocall"/>
-    <file name="jquery.watch.js" crc="4199601726" ref="videocall"/>
+    <file name="jquery.watch.js" crc="4199601726" ref="videocall:download"/>
+    <file name="jquery.tobrowserwidth.js" crc="152985095" ref="videocall:download"/>
     <file name="jquery.musemenu.js" crc="32367222" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="backgrd.jpg" crc="364560349" ref="dashboard:videocall:settings:index:dressing-table"/>
+    <file name="backgrd.jpg" crc="364560349" ref="dashboard:videocall:settings:index:dressing-table:download"/>
     <file name="blank.gif" crc="4208392903" ref="dashboard:index:dressing-table"/>
     <file name="u931.png" crc="3761303853" ref="dashboard"/>
     <file name="u931-a.png" crc="106145972" ref="dashboard"/>
@@ -45,56 +50,49 @@
     <file name="2011-12-16 232729.jpg" crc="4107698447" ref="dashboard"/>
     <file name="loading.gif" crc="3815509949" ref="dashboard"/>
     <file name="u1493-6.png" crc="4169494566" ref="dashboard"/>
-    <file name="u2049-6.png" crc="4265150743" ref="dashboard"/>
-    <file name="statspg285x292.png" crc="4240527042" ref="dashboard"/>
-    <file name="u2053-6.png" crc="4169494566" ref="dashboard"/>
-    <file name="u2055-6.png" crc="4265150743" ref="dashboard"/>
+    <file name="statspg.png" crc="4240527042" ref="dashboard"/>
     <file name="u1409-6.png" crc="3958733688" ref="dashboard"/>
     <file name="u1410-10.png" crc="3999567211" ref="dashboard"/>
-    <file name="u1412-10.png" crc="67509246" ref="dashboard"/>
-    <file name="u1404-sprite.png" crc="3973042178" ref="dashboard"/>
     <file name="u1418-6.png" crc="4218937415" ref="dashboard"/>
     <file name="u1419-6.png" crc="3770509428" ref="dashboard"/>
-    <file name="u1420-7.png" crc="4076983645" ref="dashboard"/>
-    <file name="u2059-6.png" crc="4169494566" ref="dashboard"/>
     <file name="u999.png" crc="4215828142" ref="dashboard"/>
     <file name="u1000.png" crc="4215828142" ref="dashboard"/>
     <file name="u998.png" crc="4215828142" ref="dashboard"/>
     <file name="u1001-4.png" crc="3879684134" ref="dashboard"/>
-    <file name="logo.png" crc="118171722" ref="videocall"/>
+    <file name="logo.png" crc="118171722" ref="videocall:download"/>
     <file name="end.png" crc="3855079197" ref="videocall"/>
     <file name="mute.png" crc="259662938" ref="videocall"/>
     <file name="start.png" crc="200366544" ref="videocall"/>
+    <file name="u1575-3-full.png" crc="3962373847" ref="videocall"/>
+    <file name="u1576-4.png" crc="3917109917" ref="videocall"/>
     <file name="u1579.png" crc="4215828142" ref="videocall"/>
     <file name="u1578.png" crc="4215828142" ref="videocall"/>
     <file name="u1580.png" crc="4215828142" ref="videocall"/>
-    <file name="u1575-3-full.png" crc="3962373847" ref="videocall"/>
-    <file name="u1576-4.png" crc="3917109917" ref="videocall"/>
     <file name="u1486.png" crc="4215828142" ref="settings"/>
     <file name="u1485.png" crc="4215828142" ref="settings"/>
     <file name="u1487.png" crc="4215828142" ref="settings"/>
     <file name="u1488-4.png" crc="313924601" ref="settings"/>
-    <file name="u1528-4.png" crc="250816950" ref="settings"/>
-    <file name="u1527-4.png" crc="163944090" ref="settings"/>
-    <file name="u1529-4.png" crc="20661025" ref="settings"/>
-    <file name="u1532-4.png" crc="185045602" ref="settings"/>
-    <file name="u1491-sprite.png" crc="443324912" ref="settings"/>
     <file name="u1530-4.png" crc="4192903545" ref="settings"/>
+    <file name="u1532-4.png" crc="185045602" ref="settings"/>
+    <file name="u1534-4.png" crc="4192903545" ref="settings"/>
+    <file name="u1491-sprite.png" crc="443324912" ref="settings"/>
     <file name="u1514-4.png" crc="376742824" ref="settings"/>
+    <file name="u1529-4.png" crc="20661025" ref="settings"/>
     <file name="u1515-4.png" crc="185174269" ref="settings"/>
     <file name="u1516-4.png" crc="3835427855" ref="settings"/>
+    <file name="u1527-4.png" crc="163944090" ref="settings"/>
     <file name="u1517-4.png" crc="4129681040" ref="settings"/>
-    <file name="u1534-4.png" crc="4192903545" ref="settings"/>
+    <file name="u1528-4.png" crc="250816950" ref="settings"/>
     <file name="u1518-4.png" crc="3858498929" ref="settings"/>
-    <file name="u1608-4-a.png" crc="3869689524" ref="index"/>
-    <file name="u1318.png" crc="506428667" ref="index"/>
-    <file name="u1318-a.png" crc="3903745833" ref="index"/>
-    <file name="u1636.png" crc="4230592088" ref="index"/>
-    <file name="u1636-a.png" crc="375949296" ref="index"/>
-    <file name="u846.png" crc="483116763" ref="index"/>
-    <file name="u846-a.png" crc="445215970" ref="index"/>
-    <file name="u1586.png" crc="4000227046" ref="index"/>
-    <file name="u1586-a.png" crc="4113390125" ref="index"/>
+    <file name="u1608-4-a.png" crc="3907632231" ref="index"/>
+    <file name="u1318.png" crc="3838194151" ref="index"/>
+    <file name="u1318-a.png" crc="192792631" ref="index"/>
+    <file name="u1636.png" crc="263219713" ref="index"/>
+    <file name="u1636-a.png" crc="3809727215" ref="index"/>
+    <file name="u846.png" crc="387900293" ref="index"/>
+    <file name="u846-a.png" crc="400713441" ref="index"/>
+    <file name="u1586.png" crc="197761265" ref="index"/>
+    <file name="u1586-a.png" crc="39534314" ref="index"/>
     <file name="u886.png" crc="4215828142" ref="index"/>
     <file name="u885.png" crc="4215828142" ref="index"/>
     <file name="u887.png" crc="4215828142" ref="index"/>
@@ -117,11 +115,24 @@
     <file name="u1297.png" crc="4215828142" ref="dressing-table"/>
     <file name="u1294.png" crc="4215828142" ref="dressing-table"/>
     <file name="u1298-4.png" crc="220467571" ref="dressing-table"/>
-    <file name="favicon.ico" crc="4005283272" ref="dashboard"/>
+    <file name="u2049-6.png" crc="4265150743" ref="dashboard"/>
+    <file name="u2053-6.png" crc="4169494566" ref="dashboard"/>
+    <file name="u2055-6.png" crc="4265150743" ref="dashboard"/>
+    <file name="u1412-10.png" crc="67509246" ref="dashboard"/>
+    <file name="u1404-sprite.png" crc="3973042178" ref="dashboard"/>
+    <file name="u1420-7.png" crc="4076983645" ref="dashboard"/>
+    <file name="u2059-6.png" crc="4169494566" ref="dashboard"/>
+    <file name="u2077.png" crc="365099123" ref="index"/>
+    <file name="u2077-a.png" crc="235342733" ref="index"/>
+    <file name="u2079-4.png" crc="4001799348" ref="download"/>
+    <file name="u2081-4.png" crc="4195714203" ref="download"/>
+    <file name="u2086-4.png" crc="253053481" ref="download"/>
+    <file name="u2087-4.png" crc="525177814" ref="download"/>
   </folder>
-  <file name="dashboard.html" crc="473519319" mt="1407977170633" redirect="true"/>
-  <file name="videocall.html" crc="3878819126" mt="1407977170630" redirect="true"/>
-  <file name="settings.html" crc="114090129" mt="1407977170635" redirect="true"/>
-  <file name="index.html" crc="109318537" mt="1407977170637" redirect="true"/>
-  <file name="dressing-table.html" crc="4131456330" mt="1407977170638" redirect="true"/>
+  <file name="dashboard.html" crc="4031086269" mt="1407973961912" redirect="true"/>
+  <file name="videocall.html" crc="330504605" mt="1407974696912" redirect="true"/>
+  <file name="settings.html" crc="4244760452" mt="1407974537938" redirect="true"/>
+  <file name="index.html" crc="200167092" mt="1408054986627" redirect="true"/>
+  <file name="dressing-table.html" crc="3840309853" mt="1407973954085" redirect="true"/>
+  <file name="download.html" crc="475452513" mt="1408055354369" redirect="true"/>
 </manifest>

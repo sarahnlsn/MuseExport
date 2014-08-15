@@ -7,6 +7,30 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://styla.thegizzmo.com/assets/styla.apk</loc>
+    <lastmod>2014-08-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://styla.thegizzmo.com/assets/videocall.apk</loc>
+    <lastmod>2014-08-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://styla.thegizzmo.com/assets/ms3308-presentation.pptx</loc>
+    <lastmod>2014-08-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://styla.thegizzmo.com/assets/ms3308-thesis.pdf</loc>
+    <lastmod>2014-08-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://styla.thegizzmo.com/images/backgrd.jpg</loc>
     <lastmod>2014-08-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -121,25 +145,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://styla.thegizzmo.com/images/u2049-6.png</loc>
-    <lastmod>2014-08-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://styla.thegizzmo.com/images/statspg285x292.png</loc>
-    <lastmod>2014-08-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://styla.thegizzmo.com/images/u2053-6.png</loc>
-    <lastmod>2014-08-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://styla.thegizzmo.com/images/u2055-6.png</loc>
+    <loc>http://styla.thegizzmo.com/images/statspg.png</loc>
     <lastmod>2014-08-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -157,18 +163,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://styla.thegizzmo.com/images/u1412-10.png</loc>
-    <lastmod>2014-08-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://styla.thegizzmo.com/images/u1404-sprite.png</loc>
-    <lastmod>2014-08-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://styla.thegizzmo.com/images/u1418-6.png</loc>
     <lastmod>2014-08-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -176,18 +170,6 @@
   </url>
   <url>
     <loc>http://styla.thegizzmo.com/images/u1419-6.png</loc>
-    <lastmod>2014-08-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://styla.thegizzmo.com/images/u1420-7.png</loc>
-    <lastmod>2014-08-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://styla.thegizzmo.com/images/u2059-6.png</loc>
     <lastmod>2014-08-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -241,6 +223,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://styla.thegizzmo.com/images/u1575-3-full.png</loc>
+    <lastmod>2014-08-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://styla.thegizzmo.com/images/u1576-4.png</loc>
+    <lastmod>2014-08-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://styla.thegizzmo.com/images/u1579.png</loc>
     <lastmod>2014-08-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -254,18 +248,6 @@
   </url>
   <url>
     <loc>http://styla.thegizzmo.com/images/u1580.png</loc>
-    <lastmod>2014-08-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://styla.thegizzmo.com/images/u1575-3-full.png</loc>
-    <lastmod>2014-08-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://styla.thegizzmo.com/images/u1576-4.png</loc>
     <lastmod>2014-08-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -295,19 +277,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://styla.thegizzmo.com/images/u1528-4.png</loc>
-    <lastmod>2014-08-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://styla.thegizzmo.com/images/u1527-4.png</loc>
-    <lastmod>2014-08-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://styla.thegizzmo.com/images/u1529-4.png</loc>
+    <loc>http://styla.thegizzmo.com/images/u1530-4.png</loc>
     <lastmod>2014-08-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -319,19 +289,25 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://styla.thegizzmo.com/images/u1534-4.png</loc>
+    <lastmod>2014-08-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://styla.thegizzmo.com/images/u1491-sprite.png</loc>
     <lastmod>2014-08-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://styla.thegizzmo.com/images/u1530-4.png</loc>
+    <loc>http://styla.thegizzmo.com/images/u1514-4.png</loc>
     <lastmod>2014-08-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://styla.thegizzmo.com/images/u1514-4.png</loc>
+    <loc>http://styla.thegizzmo.com/images/u1529-4.png</loc>
     <lastmod>2014-08-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -349,13 +325,19 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://styla.thegizzmo.com/images/u1527-4.png</loc>
+    <lastmod>2014-08-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://styla.thegizzmo.com/images/u1517-4.png</loc>
     <lastmod>2014-08-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://styla.thegizzmo.com/images/u1534-4.png</loc>
+    <loc>http://styla.thegizzmo.com/images/u1528-4.png</loc>
     <lastmod>2014-08-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -553,7 +535,79 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://styla.thegizzmo.com/images/favicon.ico</loc>
+    <loc>http://styla.thegizzmo.com/images/u2049-6.png</loc>
+    <lastmod>2014-08-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://styla.thegizzmo.com/images/u2053-6.png</loc>
+    <lastmod>2014-08-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://styla.thegizzmo.com/images/u2055-6.png</loc>
+    <lastmod>2014-08-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://styla.thegizzmo.com/images/u1412-10.png</loc>
+    <lastmod>2014-08-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://styla.thegizzmo.com/images/u1404-sprite.png</loc>
+    <lastmod>2014-08-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://styla.thegizzmo.com/images/u1420-7.png</loc>
+    <lastmod>2014-08-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://styla.thegizzmo.com/images/u2059-6.png</loc>
+    <lastmod>2014-08-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://styla.thegizzmo.com/images/u2077.png</loc>
+    <lastmod>2014-08-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://styla.thegizzmo.com/images/u2077-a.png</loc>
+    <lastmod>2014-08-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://styla.thegizzmo.com/images/u2079-4.png</loc>
+    <lastmod>2014-08-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://styla.thegizzmo.com/images/u2081-4.png</loc>
+    <lastmod>2014-08-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://styla.thegizzmo.com/images/u2086-4.png</loc>
+    <lastmod>2014-08-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://styla.thegizzmo.com/images/u2087-4.png</loc>
     <lastmod>2014-08-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -584,6 +638,12 @@
   </url>
   <url>
     <loc>http://styla.thegizzmo.com/dressing-table.html</loc>
+    <lastmod>2014-08-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://styla.thegizzmo.com/download.html</loc>
     <lastmod>2014-08-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

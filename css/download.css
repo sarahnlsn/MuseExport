@@ -1,0 +1,114 @@
+@-ms-viewport
+{
+	width: 355px;
+}
+
+@-webkit-viewport
+{
+	width: 355px;
+}
+
+@-o-viewport
+{
+	width: 355px;
+}
+
+@-moz-viewport
+{
+	width: 355px;
+}
+
+@viewport
+{
+	width: 355px;
+}
+
+.html
+{
+	background: #7F7F7F url("../images/backgrd.jpg") repeat-x center center scroll;
+}
+
+#page
+{
+	z-index: 1;
+	width: 355px;
+	min-height: 608px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: #FFFFFF;
+}
+
+#u1669-6
+{
+	z-index: 2;
+	width: 355px;
+	min-height: 622px;
+	margin-right: -10000px;
+}
+
+#u1673
+{
+	z-index: 8;
+	width: 355px;
+}
+
+#u1677
+{
+	z-index: 11;
+	width: 127px;
+	margin-right: -10000px;
+	left: 214px;
+}
+
+#u2079-4
+{
+	z-index: 13;
+	position: relative;
+	width: 187px;
+	margin-right: -10000px;
+	margin-top: 128px;
+	left: 46px;
+}
+
+#u2081-4
+{
+	z-index: 17;
+	position: relative;
+	width: 187px;
+	margin-right: -10000px;
+	margin-top: 180px;
+	left: 46px;
+}
+
+#u2086-4
+{
+	z-index: 21;
+	position: relative;
+	width: 157px;
+	margin-right: -10000px;
+	margin-top: 232px;
+	left: 46px;
+}
+
+#u2087-4
+{
+	z-index: 25;
+	position: relative;
+	width: 157px;
+	margin-right: -10000px;
+	margin-top: 284px;
+	left: 46px;
+}
+
+#u2079-4_img,#u2081-4_img,#u2086-4_img,#u2087-4_img
+{
+	display: block;
+	vertical-align: top;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
